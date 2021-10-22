@@ -20,4 +20,4 @@ Created in Kenzie Academy Web Programming Week.
 
 a shopping list.
   Check out the project
-[On here](https://otaviocostadev.github.io/Lista-de-compras/)
+[On here](https://otaviocostadev.github.io/Shopping-list/)
